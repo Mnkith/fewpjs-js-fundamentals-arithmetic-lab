@@ -1,5 +1,5 @@
 # JavaScript Fundamentals: Arithmetic Lab
-
+ 
 ## Learning Goals
 
 * Recognize the limitations of math in JavaScript
